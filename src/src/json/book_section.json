@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Livros Populares",
+        "horizontal": true,
+        "data": [
+            {
+                "book_name": "O Grande Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "url": "",
+                "image": "https://graphics8.nytimes.com/images/2013/04/14/t-magazine/14document/14document-custom2.jpg",
+                "description": "Um romance ambientado nos Loucos Anos 20, retratando o extravagante e elusivo Jay Gatsby."
+
+            },
+            {
+                "book_name": "O Sol é para Todos",
+                "author": "Harper Lee",
+                "url": "",
+                "image": "https://media.glamour.com/photos/56e1f3c462b398fa64cbd304/master/w_1600%2Cc_limit/entertainment-2016-02-18-main.jpg",
+                "description": "Uma história de injustiça racial e perda da inocência no Sul Profundo dos anos 1930."
+            },
+            {
+                "book_name": "1984",
+                "author": "George Orwell",
+                "url": "",
+                "image": "https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF894,1000_QL80_.jpg",
+                "description": "Um romance distópico que retrata uma sociedade totalitária onde o pensamento crítico é suprimido."
+            },
+            {
+                "book_name": "Harry Potter e a Pedra Filosofal",
+                "author": "J.K. Rowling",
+                "url": "",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJfzyp4sFB3GRlIBcGjL-Zeg34kFvlaYOa0ZcDwllDMg&s",
+                "description": "O primeiro livro na popular série Harry Potter, apresentando o mundo mágico de Hogwarts."
+            },
+            {
+                "book_name": "O Senhor dos Anéis",
+                "author": "J.R.R. Tolkien",
+                "url": "",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyUcnImygY3h7UcHQaUs1J5NXgEEpdpIio7B5kSdicg&s",
+                "description": "Uma trilogia épica de fantasia que segue a jornada de Frodo Bolseiro para destruir o Um Anel."
+            }
+        ]
+    },
+    {
+        "title": "Novos",
+        "horizontal": true,
+        "data": [
+            {
+                "starSection": true,
+                "book_name": "Orgulho e Preconceito",
+                "author": "Jane Austen",
+                "image": "https://img1.od-cdn.com/ImageType-400/2389-1/112/3FE/D8/%7B1123FED8-AAD0-4DD8-98C6-3F9FA3AAADC9%7DImg400.jpg",
+                "star": "4",
+                "description": "Um romance espirituoso e romântico com a independente Elizabeth Bennet."
+        
+            },
+            {
+                "starSection": true,
+                "book_name": "O Apanhador no Campo de Centeio",
+                "author": "J.D. Salinger",
+                "image": "https://qph.cf2.quoracdn.net/main-qimg-1a476ecc76e44800ce3223b043aa425d-lq",
+                "star": "5",
+                "description": "Uma história de amadurecimento que explora temas de angústia adolescente e rebelião."
+            },
+            {
+                "starSection": true,
+                "book_name": "O Hobbit",
+                "author": "J.R.R. Tolkien",
+                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907.jpg",
+                "star": "5",
+                "description": "Um prelúdio a O Senhor dos Anéis, narrando as aventuras de Bilbo Bolseiro com anões."
+            },
+            {
+                "starSection": true,
+                "book_name": "Jogos Vorazes",
+                "author": "Suzanne Collins",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJUEV8DbKX6rzxIoUlqTKqPhKtX7yxhGBekDY3kyWOA&s",
+                "star": "5",
+                "description": "Uma trilogia distópica onde adolescentes são forçados a participar de uma luta televisada até a morte."
+            },
+            {
+                "starSection": true,
+                "book_name": "O Código Da Vinci",
+                "author": "Dan Brown",
+                "image": "https://m.media-amazon.com/images/I/815WORuYMML._AC_UF1000,1000_QL80_.jpg",
+                "star": "4",
+                "description": "Um mistério emocionante que combina arte, religião e sociedades secretas em uma busca por verdades ocultas."
+            }
+        ]
+    }
+]       
