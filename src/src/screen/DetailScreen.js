@@ -2,6 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import { StyleSheet, ScrollView, Text, View, Image, Button, Linking, Pressable } from 'react-native';
 import Star from "../component/Star";
+import BookButton from '../component/BookButton';
 
 const DetailScreen = ({ route, navigation }) => {
     const { book_name,
@@ -51,14 +52,8 @@ const DetailScreen = ({ route, navigation }) => {
                         <Text style={styles.description}>
                             {description}
                         </Text>
-                        
-                        {/* Criar funcionalidade no botão de Adicionar na lista de desejos */}
-                        <Pressable style={styles.button}>
-                            <Text style={{color: "#fff", fontSize: 16}}>
-                                Adicionar na Lista de Desejos
-                            </Text>
-                        </Pressable> 
                     </View>
+                 <BookButton  style={styles.button}  />   
                 </View>
             </ScrollView>
         </View>
